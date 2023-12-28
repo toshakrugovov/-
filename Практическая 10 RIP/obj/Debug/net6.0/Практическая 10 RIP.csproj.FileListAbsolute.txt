@@ -1,0 +1,17 @@
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\Практическая 10 RIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\Практическая 10 RIP.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\Практическая 10 RIP.AssemblyInfo.cs
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\Практическая 10 RIP.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\bin\Debug\net6.0\Практическая 10 RIP.exe
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\bin\Debug\net6.0\Практическая 10 RIP.deps.json
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\bin\Debug\net6.0\Практическая 10 RIP.runtimeconfig.json
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\bin\Debug\net6.0\Практическая 10 RIP.dll
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\bin\Debug\net6.0\Практическая 10 RIP.pdb
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\Практическая 10 RIP.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\Практическая 10 RIP.csproj.CopyComplete
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\Практическая 10 RIP.dll
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\refint\Практическая 10 RIP.dll
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\Практическая 10 RIP.pdb
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\Практическая 10 RIP.genruntimeconfig.cache
+C:\Users\Home\Desktop\Шарп Итоговая\Практическая 10 RIP\Практическая 10 RIP\obj\Debug\net6.0\ref\Практическая 10 RIP.dll
